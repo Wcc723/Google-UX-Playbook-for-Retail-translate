@@ -81,7 +81,7 @@
 >Customer Acquisition
 * 提高市場市占率
 >Since integration, 68% of google pay transactions were driven from new users; and 24% of these new users chose to create an account with B&H.(B&H)
-* 整合GPay以後，有68%的GPay消費來自新的使用者，其中的24%使用者也成為B&H的新使用者。
+* 整合GPay以後，有68%的GPay消費來自新的使用者，其中的24%使用者也成為B&H的新使用者。(B&H:https://www.bhphotovideo.com/)
 
 ---
 
