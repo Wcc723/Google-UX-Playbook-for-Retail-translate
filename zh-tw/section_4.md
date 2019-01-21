@@ -156,7 +156,7 @@
 ## 頁面 52
 ![](../images/google-retail-ux-playbook-52.png)
 
-###總是回傳搜尋結果
+### 總是回傳搜尋結果
 
 ---
 
