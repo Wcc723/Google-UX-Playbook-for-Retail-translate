@@ -21,6 +21,9 @@
 ## 頁面 3
 ![](../images/google-retail-ux-playbook-3.png)
 
+#### 電商UX建議指南懶人包
+透過這些流程建構一個流暢的購物體驗
+
 <table>
   <thead>
     <tr>
