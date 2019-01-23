@@ -24,7 +24,7 @@
 #### 電商UX建議指南懶人包
 透過這些流程建構一個流暢的購物體驗
 
-<table>
+<table>
   <thead>
     <tr>
       <th>首頁 / 到達頁（Homepage/Landing page）</th>
