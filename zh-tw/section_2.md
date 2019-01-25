@@ -113,9 +113,9 @@
 測試：Sign Up & Get the Best Daily Tips
 
 #### 研究:
-- [Contentverge.com, 7 個通用轉換優化原則](http://contentverve.com/case-study-31-03-increase-in-sales-by-tweaking-the-call-to-action-copy-on-a-payment-page/)
+- [Contentverge.com, 7 個通用轉換優化原則](http://contentverve.com/case-study-31-03-increase-in-sales-by-tweaking-the-call-to-action-copy-on-a-payment-page/)
 - [Good UI](https://goodui.org/#30)- CTAs 的損失與收益
-- [Good UI](https://goodui.org/#18)- 任務按鈕及收益
+- [Good UI](https://goodui.org/#18)- 任務按鈕及收益
 
 ---
 
@@ -141,8 +141,8 @@
 ![](../images/google-retail-ux-playbook-27.png)
 
 ### 研究顯示，輪播很少具有作用
-
-輪播可以被視為一個橫幅內容，因此它會被忽略。而用戶應具有控制權。首頁上的自動輪播圖片使用頻率應減少。
+
+輪播可以被視為一個橫幅內容，因此它會被忽略。而用戶應具有控制權。首頁上的自動輪播圖片使用頻率應減少。
 
 - 理由一：人眼對於動態的反應（將會忽略掉重要的訊息）
 - 理由二：太多訊息等同於沒有訊息
@@ -159,13 +159,13 @@
 ## 頁面 28
 ![](../images/google-retail-ux-playbook-28.png)
 
-首頁上顯示最熱門的類別
+首頁上顯示最熱門的類別
 ---
 
 ## 頁面 29
 ![](../images/google-retail-ux-playbook-29.png)
 
-首頁上顯示最熱門的類別
+首頁上顯示最熱門的類別
 ---
 
 ## 頁面 30
