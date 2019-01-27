@@ -4,7 +4,7 @@
 
 原始文件：[連結](https://services.google.com/fh/files/events/pdf_retail_ux_playbook.pdf?fbclid=IwAR1CsBUQnnmq6ckBigVtKMjLXqOpZWAvKstzFTwqs17lVbYj5mmJPvnvxNU)
 
-- [簡介](zh-tw/section_1.md)
+- [簡介](zh-tw/section_1.md) - Yuki: [Facebook](https://www.facebook.com/xzhuang3)
 - [首頁 / 登入頁](zh-tw/section_2.md) - 卡斯伯: [Facebook](https://www.facebook.com/WccCasper/)
 - [選單及導覽](zh-tw/section_3.md) - Jason: [Facebook](https://www.facebook.com/kl.h.2016)、[Blog](https://f2eforty.blogspot.com/)
 - [搜尋](zh-tw/section_4.md) - Jason: [Facebook](https://www.facebook.com/kl.h.2016)、[Blog](https://f2eforty.blogspot.com/)
